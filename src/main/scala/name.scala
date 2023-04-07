@@ -16,9 +16,6 @@ val f = new Function[Int,Int] {
       if (a.head == elem) {a.tail} else
         a.head :: removeOne(a.tail,elem)
   }
-  val sad = List(1,2,3,4,5)
-def combinator3301[A] (a:List[A],acc:List[A]):List[List[A]] ={
-
-}
+  val sad = List(1,2,3,4,5,1243)
 
 }
