@@ -19,6 +19,7 @@ val f = new Function[Int,Int] {
   val sad = List(1,2,3,4,5)
 def combinator3301[A] (a:List[A],acc:List[A]):List[List[A]] ={
 ИЛЬЯ ЕБАНЫЙ ХУЕСОС
+  пошел нахуй пидорас ебучий
 }
 
 }
