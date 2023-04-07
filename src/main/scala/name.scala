@@ -17,5 +17,5 @@ val f = new Function[Int,Int] {
         a.head :: removeOne(a.tail,elem)
   }
   val sad = List(1,2,3,4,5,1243)
-
+asdasdqawd
 }
